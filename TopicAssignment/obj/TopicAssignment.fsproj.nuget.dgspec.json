@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anton\\source\\repos\\TopicAssignment\\TopicAssignment\\TopicAssignment.fsproj": {}
+    "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\TopicAssignment\\TopicAssignment.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Anton\\source\\repos\\TopicAssignment\\TopicAssignment\\TopicAssignment.fsproj": {
+    "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\TopicAssignment\\TopicAssignment.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anton\\source\\repos\\TopicAssignment\\TopicAssignment\\TopicAssignment.fsproj",
+        "projectUniqueName": "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\TopicAssignment\\TopicAssignment.fsproj",
         "projectName": "TopicAssignment",
-        "projectPath": "C:\\Users\\Anton\\source\\repos\\TopicAssignment\\TopicAssignment\\TopicAssignment.fsproj",
+        "projectPath": "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\TopicAssignment\\TopicAssignment.fsproj",
         "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anton\\source\\repos\\TopicAssignment\\TopicAssignment\\obj\\",
+        "outputPath": "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\TopicAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",

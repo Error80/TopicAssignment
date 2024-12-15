@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D51D8E-54FB-49A9-A4B7-62A710D8E6D0}|TopicAssignment\\TopicAssignment.fsproj|c:\\users\\anton\\source\\repos\\topicassignment2\\topicassignment\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{33D51D8E-54FB-49A9-A4B7-62A710D8E6D0}|TopicAssignment\\TopicAssignment.fsproj|solutionrelative:topicassignment\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\TopicAssignment\\Program.fs",
+              "RelativeDocumentMoniker": "TopicAssignment\\Program.fs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\TopicAssignment\\Program.fs",
+              "RelativeToolTip": "TopicAssignment\\Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-15T00:31:49.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

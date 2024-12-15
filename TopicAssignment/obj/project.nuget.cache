@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+IRuOi6i+0=",
+  "dgSpecHash": "236SCFW9nG4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anton\\source\\repos\\TopicAssignment\\TopicAssignment\\TopicAssignment.fsproj",
+  "projectFilePath": "C:\\Users\\Anton\\source\\repos\\TopicAssignment2\\TopicAssignment\\TopicAssignment.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anton\\.nuget\\packages\\fsharp.core\\8.0.401\\fsharp.core.8.0.401.nupkg.sha512"
   ],
